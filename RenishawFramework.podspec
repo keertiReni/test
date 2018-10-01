@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author             = { "Keerti" => "keerti.bhatnagar@renishaw.com" }
   s.ios.deployment_target = '10.0'
   s.ios.vendored_frameworks = 'RenishawFramework.framework'
-  s.source            = { :git => 'https://github.com/keertireni/RenishawFramework.git' }
+  s.source            = { :git => 'https://github.com/keertireni/test.git' }
   s.exclude_files = "Classes/Exclude"
 
 end
